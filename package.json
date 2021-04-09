@@ -24,9 +24,9 @@
         "url": "https://github.com/gowravshekar/font-awesome-webpack/issues"
     },
     "dependencies": {
-        "css-loader": "~0.26.1",
-        "less-loader": "~2.2.3",
-        "style-loader": "~0.13.1"
+        "css-loader": "~5.2.1",
+        "less-loader": "~8.1.0",
+        "style-loader": "~2.0.0"
     },
     "peerDependencies": {
         "font-awesome": ">=4.3.0"
